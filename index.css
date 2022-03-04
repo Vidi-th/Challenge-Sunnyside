@@ -43,5 +43,28 @@ header li a:hover{
 }
 
 .Page1 h1{
+    padding-top: 40px;
     margin: 0;
+}
+
+.Page2{
+    display: inline-block;
+}
+
+.konten2{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 50px;
+}
+
+.Page2 img{
+    width: 50%;
+    position: absolute;
+    right: 0;
+    vertical-align: middle;
+}
+
+.Page3{
+    
 }
