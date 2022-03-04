@@ -48,14 +48,15 @@ header li a:hover{
 }
 
 .Page2{
-    display: inline-block;
+    display: block;
+    width: 50%;
 }
 
 .konten2{
-    width: 50%;
     display: inline-block;
     vertical-align: middle;
-    padding: 50px;
+    padding: 350px 20px;
+    
 }
 
 .Page2 img{
@@ -63,8 +64,22 @@ header li a:hover{
     position: absolute;
     right: 0;
     vertical-align: middle;
+    margin-bottom: 10px;
 }
 
 .Page3{
-    
+    display: block;
+}
+
+.konten3{
+    width: 50%; 
+    position: absolute;
+    right: 0;
+    vertical-align: middle;
+    padding: 350px 20px;
+}
+
+.Page3 img{
+    width: 50%;
+    margin-bottom: 10px;
 }
